@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="1078" group-title="TV" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da8c2", NTV HD
+https://tv.ensonhaber.com/tv/tr/ntv/index.m3u8
+#EXTINF:0 type="stream" channelId="3081" group-title="TV" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da890", HABER TURK HD
+https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="TV" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV HD
+https://mn-nl.mncdn.com/blutv_halktv2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="TV" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7d6", TELE 1 HD
+https://mn-nl.mncdn.com/blutv_tele1_dvr/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="TV" logo="https://1.bp.blogspot.com/-A_LgNRVaWwI/YALg0jc-51I/AAAAAAAAQWc/6uv9TAxvjpUIkXCgoad5o9nN6qkLaW20wCLcBGAsYHQ/s320/TV100TR.png", TV 100 HD
+https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
+#EXTINF:0 type="stream" channelId="1070" group-title="TV" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da808", CNN TURK HD
+https://mn-nl.mncdn.com/blutv_cnnturk_dvr/live_720p2000000/index.m3u8
+#EXTINF:0 type="stream" channelId="3075" group-title="TV" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da892", BLOOMBERG HT HD
+https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_720p2000000/index.m3u8
+#EXTINF:0 type="stream" channelId="208" group-title="TV" logo="https://1.bp.blogspot.com/-aNHq9fXOobA/YI3eOUhdOEI/AAAAAAAATQ8/tudnxeQ3XuMwFqGfRXlu6ZUiWj-o3mUGQCLcBGAsYHQ/s0/FOX%2B-%2BKopya.png", FOX TV HD
+https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000/index.m3u8
+#EXTINF:0 type="stream" channelId="3999" group-title="TV" logo="https://1.bp.blogspot.com/-U77k-Bd37xE/YI3ePYaRVxI/AAAAAAAATRQ/Ks0e3x6RJK8JO73JumGQlDmStIi9j7-oQCLcBGAsYHQ/s0/STAR%2B-%2BKopya.png", STAR TV HD
+https://mn-nl.mncdn.com/blutv_startv_dvr/live_720p2000000/index.m3u8
+#EXTINF:0 type="stream" channelId="3119" group-title="TV" logo="https://1.bp.blogspot.com/-IFJJtdqvx9M/YI3eO_khbTI/AAAAAAAATRI/f0PKzmJl_YURx2cHfdzWcl7YdrphjKNkwCLcBGAsYHQ/s0/SHOW%2B-%2BKopya.png", SHOW TV HD
+https://mn-nl.mncdn.com/blutv_showtv_dvr/live_720p2000000/index.m3u8
+#EXTINF:0 type="stream" channelId="3077" group-title="TV" logo="https://1.bp.blogspot.com/-dHogV1SHMHc/YI3eO_hCxYI/AAAAAAAATRE/hq72CRTA0CgGu9fSGm-dZM3liELp_DllwCLcBGAsYHQ/s0/KANALD%2B-%2BKopya.png", KANAL D HD
+https://av.livestreamlive.xyz/hls/kanald.m3u8
+#EXTINF:0 type="stream" channelId="1076" group-title="TV" logo="https://1.bp.blogspot.com/-GWmwAkiTtZg/YI3gWQsQSpI/AAAAAAAATR8/jM4xk3oIcDwNX6LWypePM-ZsC89xN3cdwCLcBGAsYHQ/s0/TV8.png", TV8 HD
+http://79.124.14.198:8088/play/a070
+#EXTINF:0 type="stream" channelId="978" group-title="TV" logo="https://www.dsmart.com.tr/epg/images/0x60/5aafb832cfef0b3207efbcd6", D MAX HD
+https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000/index.m3u8
+#EXTINF:0 type="stream" channelId="1040" group-title="TV" logo="https://1.bp.blogspot.com/-rF8EW6WaoJk/YI3ePh7rpBI/AAAAAAAATRY/VXHq1WC6xEkOafhpgXqRkzciX75BVVhzwCLcBGAsYHQ/s0/TLC.png", TLC HD
+https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="TV" logo="https://www.powerapp.com.tr/i/powerapp-logo.png?v=230", POWER TV TR HD
+https://mn-nl.mncdn.com/blutv_power2/live_720p2000000kbps/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="TV" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da824", POWER TURK HD
+https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="TV" logo="https://www.numberone.com.tr/wp-content/uploads/2015/12/nr1-tv-logo-224x126.jpg", NR1 HD
+http://79.124.14.198:8088/play/a09t
+#EXTINF:0 type="stream" channelId="-1" group-title="TV" logo="https://1.bp.blogspot.com/-SZncOcWHpms/YH7owSXhdqI/AAAAAAAAS0M/YIw0Ig1pJQY__8dTVqRalikwlzaJRH2WQCLcBGAsYHQ/s220/nr1turk.png", NUMBER 1 TURK
+https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="TV" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7da", DREAM TURK
+https://mn-nl.mncdn.com/blutv_dreamturk2/live_720p2000000kbps/index.m3u8
